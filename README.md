@@ -21,6 +21,14 @@ at the time of this writing, the total cost before shipping is under $50. Not ba
 Please support Adafruit by buying from them, their code libraries and hardware has made so many projects like this one possible, and
 their contributions the arduino ecosystem can not be understated
 
+# Programming:
+
+In the Arduino IDE:
+1. install the Adafruit_Tinyusb library
+2. install the BNO08x library
+3. plug in ESP-32 feather module via USB-C
+4. program
+
 # Usage:
 
 1. assemble mount
