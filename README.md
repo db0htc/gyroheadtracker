@@ -6,7 +6,7 @@
 
   Included in the repository are files for 3D printing the mount for the head tracker PCBs and buttons
 
-  Bill of Materials:
+ # Bill of Materials:
   
 Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic PID: 5477
 https://www.adafruit.com/product/5477 
@@ -31,6 +31,8 @@ This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro 
 The above board is bluetooth capable, enabling a wireless version, but the bluetooth interface for mice is a bit weird and i didn't like it
 
 due to the nature of geometry, the tracking follows a rotational path on a flat surface, so you will get more speed in the center of the screen, but slightly more accuracy and less speed on the edges of the screen. If you have a curved monitor, this is a non issue except on the vertical axis. You might not notice the effect when you edit the variables for mouse control vs head tracking
+
+# assembly 
 
 the following picture is how i made mine (STL file included)
 
