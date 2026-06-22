@@ -1,7 +1,7 @@
 # Gyro Headtracker and mouse control device
 
-  This project is a simple gyro-controlled headtracker and general mouse control tool, made for mounting on hats or anything else that follows head movement
-  It started as something i was making for a friend in Star Citizen who had issues with his hands, but he fell more ill and could not play as much
+  This project is a simple gyro-controlled headtracker and general mouse control tool, made for mounting on hats or anything else that follows head movement.
+  It started as something i was making for a friend in Star Citizen who had issues with his hands, but he fell more ill and could not play as much.
   I'm putting it here for anyone else who wants a cool home-made headtracker or gyro assist device for FPS games. You can control your gun movements with it, since it uses mouse input
 
   Bill of Materials:
