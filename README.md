@@ -25,4 +25,6 @@ This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro 
 
 The above board is bluetooth capable, enabling a wireless version, but the bluetooth interface for mice is a bit weird and i didn't like it
 
+
+![alt text](https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg "example of mounting")
 https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg
