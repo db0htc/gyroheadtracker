@@ -21,7 +21,7 @@ at the time of this writing, the total cost before shipping is under $50. Not ba
 Please support Adafruit by buying from them, their code libraries and hardware has made so many projects like this one possible, and
 their contributions the arduino ecosystem can not be understated
 
-##usage
+# usage
 
 upload files, assemble mount, mount mount to hat
 look at center of monitor and press calibrate button
