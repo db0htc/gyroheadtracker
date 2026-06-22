@@ -4,7 +4,7 @@
   It started as something i was making for a friend in Star Citizen who had issues with his hands, but he fell more ill and could not play as much
   I'm putting it here for anyone else who wants a cool home-made headtracker or gyro assist device for FPS games. You can control your gun movements with it, since it uses mouse input
 
-  bill of materials
+  Bill of Materials:
 
     https://www.adafruit.com/product/5477 // Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic PID: 5477
     https://www.adafruit.com/product/4754  // Adafruit 9-DOF Orientation IMU Fusion Breakout - BNO085 (BNO080) - STEMMA QT / Qwiic PID: 4754
