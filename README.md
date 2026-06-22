@@ -21,7 +21,7 @@ at the time of this writing, the total cost before shipping is under $50. Not ba
 Please support Adafruit by buying from them, their code libraries and hardware has made so many projects like this one possible, and
 their contributions the arduino ecosystem can not be understated
 
-# usage
+# Usage:
 
 1. assemble mount
 2. mount mount to hat
