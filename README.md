@@ -32,4 +32,4 @@ the following picture is how i made mine (STL file included)
 ![alt text](https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg "example of mounting")
 https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg
 
-No AI was used in the making of this project. Except to look up the normalization formula. That was hand-typed in. This project was simple enough not to need it, and i learned a lot more about software equivalents to hardware solutions (button de-bounce, toggles etc)
+No AI was used in the code of this project. AI was used to look up the normalization formula, which was then hand-typed in. This project was simple enough not to need it
