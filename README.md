@@ -5,10 +5,15 @@
   I'm putting it here for anyone else who wants a cool home-made headtracker or gyro assist device for FPS games. You can control your gun movements with it, since it uses mouse input
 
   Bill of Materials:
+  
+Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic PID: 5477
+https://www.adafruit.com/product/5477 
 
-    https://www.adafruit.com/product/5477 // Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic PID: 5477
-    https://www.adafruit.com/product/4754  // Adafruit 9-DOF Orientation IMU Fusion Breakout - BNO085 (BNO080) - STEMMA QT / Qwiic PID: 4754
-    https://www.adafruit.com/product/4210  //  STEMMA QT / Qwiic JST SH 4-pin Cable - 100mm Long 
+Adafruit 9-DOF Orientation IMU Fusion Breakout - BNO085 (BNO080) - STEMMA QT / Qwiic PID: 4754
+https://www.adafruit.com/product/4754
+
+STEMMA QT / Qwiic JST SH 4-pin Cable - 100mm Long
+https://www.adafruit.com/product/4210 
 
 at the time of this writing, the total cost before shipping is under $50. Not bad for a cheap head tracker with low latency and good accuracy!
 Please support Adafruit by buying from them, their code libraries and hardware has made so many projects like this one possible
