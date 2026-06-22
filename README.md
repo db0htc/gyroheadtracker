@@ -31,3 +31,5 @@ the following picture is how i made mine (STL file included)
 
 ![alt text](https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg "example of mounting")
 https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg
+
+No AI was used in the making of this project. Except to look up the normalization formula. That was hand-typed in. No AI
