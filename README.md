@@ -32,4 +32,4 @@ the following picture is how i made mine (STL file included)
 ![alt text](https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg "example of mounting")
 https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg
 
-No AI generated code was used in this project. AI was used to look up the normalization formula, which was then hand-typed in. This project was simple enough not to need it, and i learned more. Do not use AI for simple code.
+No AI generated code was used in this project. AI was used to look up the normalization formula, which was then hand-typed in
