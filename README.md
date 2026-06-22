@@ -20,3 +20,5 @@ Please support Adafruit by buying from them, their code libraries and hardware h
 their contributions the arduino ecosystem can not be understated
 
 This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro using I2C, but i recommend the three links above for plug and play simplicity
+
+The above board is bluetooth capable, enabling a wireless version, but the bluetooth interface for mice is a bit weird and i didn't like it
