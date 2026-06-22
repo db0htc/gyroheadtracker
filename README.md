@@ -19,4 +19,4 @@ at the time of this writing, the total cost before shipping is under $50. Not ba
 Please support Adafruit by buying from them, their code libraries and hardware has made so many projects like this one possible, and
 their contributions the arduino ecosystem can not be understated
 
-This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro, using I2C wiring as appropriate, but i recommend the three links above for plug and play simplicity
+This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro using I2C, but i recommend the three links above for plug and play simplicity
