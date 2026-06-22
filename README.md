@@ -36,7 +36,7 @@ due to the nature of geometry, the tracking follows a rotational path on a flat 
 
 # Assembly:
 
-the following picture is how i made mine (STL file included)
+the following picture is how i made mine (STL file included, print vertically so the long axis is along the vertical axis of the printer. Designed for printing without supports)
 
 ![alt text](https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg "example of mounting")
 https://github.com/db0htc/gyroheadtracker/blob/main/TrackerMount.jpg
