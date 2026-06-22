@@ -23,11 +23,11 @@ their contributions the arduino ecosystem can not be understated
 
 # usage
 
-upload files
-assemble mount
-mount mount to hat
+1. upload files
+2. assemble mount
+3. mount mount to hat
 
-look at center of monitor and press calibrate button
+4. look at center of monitor and press calibrate button
 
 This project should work with any ESP-32-S3 adjacent board, and any BNO080 gyro using I2C, but i recommend the three links above for plug and play simplicity
 
