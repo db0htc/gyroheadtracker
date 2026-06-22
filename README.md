@@ -34,7 +34,7 @@ The above board is bluetooth capable, enabling a wireless version, but the bluet
 
 due to the nature of geometry, the tracking follows a rotational path on a flat surface, so you will get more speed in the center of the screen, but slightly more accuracy and less speed on the edges of the screen. If you have a curved monitor, this is a non issue except on the vertical axis. You might not notice the effect when you edit the variables for mouse control vs head tracking
 
-# assembly 
+# Assembly:
 
 the following picture is how i made mine (STL file included)
 
